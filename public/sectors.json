@@ -1,0 +1,162 @@
+
+[
+    {
+       "id": 1,
+       "sector_title": "General"
+       
+    },
+    {
+       "id": 2,
+       "sector_title": "Hardware / Telecom Equipment"
+       
+    },
+    {
+       "id": 3,
+       "sector_title": "Accounting"
+        
+    },
+    {
+       "id": 4,
+       "sector_title": "Advertising & Marketing"
+    },
+    {
+       "id": 5,
+       "sector_title": "Transport & Logistics"
+        
+    },
+    {
+       "id": 6,
+       "sector_title": "Trades & Services"
+       
+    },
+    {
+       "id": 7,
+       "sector_title": "Supply Chain & Procurement"
+       
+    },
+    {
+       "id": 8,
+       "sector_title": "Security"
+       
+    },
+    {
+       "id": 9,
+       "sector_title": "Research, Teaching & Training"
+      
+    },
+    {
+       "id": 10,
+       "sector_title": "Sales"
+      
+    },
+    {
+       "id": 11,
+       "sector_title": "Real Estate & Property Management"
+       
+    },
+    {
+       "id": 12,
+       "sector_title": "Quality Control & Assurance"
+        
+    },
+    {
+       "id": 13,
+       "sector_title": "Customer Service Representative"
+       
+    },
+    {
+       "id": 14,
+       "sector_title": "Project & Product Management"
+     
+    },
+    {
+       "id": 15,
+       "sector_title": "Other"
+       
+    },
+    {
+       "id": 16,
+       "sector_title": "Natural Sciences"
+    },
+    {
+       "id": 17,
+       "sector_title": "Network Administrator" 
+    },
+    {
+       "id": 18,
+       "sector_title": "Medical & Pharmaceutical" 
+    },
+    {
+       "id": 19,
+       "sector_title": "Marketing & Communications" 
+    },
+    {
+       "id": 20,
+       "sector_title": "Management & Business Development" 
+     },
+     {
+        "id": 21,
+        "sector_title": "Legal Services" 
+      },
+      {
+        "id": 22,
+        "sector_title": "It & Software" 
+      },
+      {
+        "id": 23,
+        "sector_title": "Management & Business Development" 
+      },
+      {
+        "id": 24,
+        "sector_title": "Human Resources" 
+      },
+      {
+        "id": 25,
+        "sector_title": "Hospitality / Leisure / Travel" 
+      },
+      {
+        "id": 26,
+        "sector_title": "Health & Safety" 
+      },
+      {
+        "id": 27,
+        "sector_title": "Food Services & Catering" 
+      },
+      {
+        "id": 28,
+        "sector_title": "Engineering" 
+      },
+      {
+        "id": 29,
+        "sector_title": "Employability & Soft Skills" 
+      },
+      {
+        "id": 30,
+        "sector_title": "Creative & Design" 
+      },
+      {
+        "id": 31,
+        "sector_title": "Consulting & Strategy" 
+      },
+      {
+        "id": 32,
+        "sector_title": "Community & Social Services" 
+      },
+      {
+        "id": 33,
+        "sector_title": "Building & Architecture" 
+      },
+      {
+        "id": 34,
+        "sector_title": "Agriculture & Farming" 
+      },
+      {
+        "id": 35,
+        "sector_title": "Administrative & Office" 
+      },
+      {
+        "id": 36,
+        "sector_title": "Accounting, Auditing & Finance" 
+      }
+    ]
+ 

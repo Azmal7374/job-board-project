@@ -1,0 +1,22 @@
+[
+    {
+      "categoryLogo": "https://img.freepik.com/free-vector/gradient-accounting-logo-template_23-2148846306.jpg?w=740&t=st=1681193031~exp=1681193631~hmac=0d2ca367440f2f3ce467065cff3d50a9f517df9a06ecb5af938896ed6aa92c15",
+      "categoryName": "Accounts & Finance",
+      "jobsAvailable": 300
+    },
+    {
+      "categoryLogo": "https://img.freepik.com/premium-vector/digital-worker-logo-template-design-vector-emblem-design-concept-creative-symbol-icon_316488-2435.jpg?w=740",
+      "categoryName": "Creative Design",
+      "jobsAvailable": "100+"
+    },
+    {
+      "categoryLogo": "https://img.freepik.com/premium-vector/marketing-manager-concept-2-colored-icon-simple-blue-element-illustration-marketing-manager-concept-symbol-design-can-be-used-web-mobile-ui-ux_159242-6526.jpg?size=626&ext=jpg&ga=GA1.1.220873417.1673880723&semt=ais",
+      "categoryName": "Marketing & Sales",
+      "jobsAvailable": 150
+    },
+    {
+      "categoryLogo": "https://img.freepik.com/free-vector/illustration-gear-doodle-icon_53876-5596.jpg?w=740&t=st=1681193377~exp=1681193977~hmac=2da2bb744502ccefbd678e164b6ef9f22e217cd35993792d8f276aa87e5c8ba1",
+      "categoryName": "Engineering Job",
+      "jobsAvailable": 224
+    }
+  ]
