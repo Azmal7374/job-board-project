@@ -17,7 +17,7 @@ import Sidebar from '../profilesinfromation/Sidebar';
     return (
         <div>
         <ProfileCommon></ProfileCommon>
-        <div className="profile flex  md:justify-center gap-52 md:gap-72   md:mr-8">
+        <div className=" flex  md:justify-center gap-52 md:gap-72   md:mr-8">
         <Sidebar></Sidebar>
             <Outlet></Outlet>
         </div>

@@ -7,7 +7,7 @@ const LatestNews = ({nw}) => {
         return (
         <div className="hover:scale-y-105 delay-75 transition-shadow">
             
-            <div className="card w-96 h-4/3 bg-base-100 shadow-xl">
+            <div className="card   h-4/3 bg-base-100 shadow-xl">
   <figure><img src=
   {image} alt="Shoes" className='h-96 hover:scale-y-105 delay-75 transition-shadow ' /></figure>
   <div className='flex ml-10 gap-3 mt-2 text-gray-500 hover:hidden'>

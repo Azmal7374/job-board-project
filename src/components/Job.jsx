@@ -5,7 +5,7 @@ import { FolderPlusIcon } from '@heroicons/react/24/solid'
 const Job = ({job}) => {
     const {id, job_title,company,location} = job;
     return (
-        <div className="md:w-96 h-54 md:h-full bg-base-200 shadow-xl flex rounded-lg">
+        <div className=" bg-base-200 shadow-xl flex rounded-lg">
         
         <div className="flex justify-center items-center mt-16 ml-4 h-20 w-20 md:w-28 border border-white rounded-md p-2 ">
         <button className="bg-pink-300 w-10 h-10 rounded-full ">

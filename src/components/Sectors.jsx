@@ -46,7 +46,7 @@ const Sectors = () => {
         </div>
       <div className="text-center">
       {
-        show && <button onClick={() =>setShow(false)} className="mt-10 w-32 h-12 p-4   bg-orange-600 text-white rounded-md font-bold hover:bg-orange-700 ">
+        show && <button onClick={() =>setShow(false)} className="mt-10 w-32 h-12 p-4   bg-orange-600 text-white rounded-md font-bold hover:bg-purple-700 ">
          More Data
        </button>
      }

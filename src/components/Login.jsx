@@ -175,7 +175,7 @@ const Login = () => {
   </form>
   </div>
   
-  <p className="flex md:justify-center mt-2 md:ml-10 ">Don't have account?<Link to='/signup' className='text-orange-500 mx-1'>Sign up</Link></p>
+  <p className="flex md:justify-center mt-2 md:ml-28 ">Don't have account?<Link to='/signup' className='text-orange-500 mx-1'>Sign up</Link></p>
   <p className=" flex justify-center text-danger font-bold text-shadow mt-4">{error}</p>
 <p className='flex justify-center text-success font-bold text-shadow mt-4'>{success}</p>
 <div className='flex  gap-4 justify-center'>

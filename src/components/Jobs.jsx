@@ -1,10 +1,19 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import vector1 from '../assets/Vector.png';
 import vector2 from '../assets/Vector-1.png';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faGreaterThan } from "@fortawesome/free-solid-svg-icons";
 import { Link} from 'react-router-dom';
+import Job from "./Job";
+
 const Jobs = () => {
+  const [jobs, setJobs] =useState([])
+  const [show, setShow] = useState(true)
+  useEffect( () =>{
+    fetch('joblists.json')
+    .then(res => res.json())
+    .then(data => setJobs(data))
+  },[])
     return (
         <div className="my-container">
         <div className=" bg-slate-100 flex justify-between items-center">
@@ -54,6 +63,24 @@ const Jobs = () => {
          Browse job offers by Category or Location
        </h1>
      </section>
+
+     <div className='mt-10 grid md:grid-cols-2 lg:grid-cols-3 gap-10'>
+     { 
+      show ?
+     jobs.slice(0,5).map(job => <Job job={job} key={job.id}></Job>)
+     :
+     jobs.map(job => <Job job={job} key={job.id}></Job>)
+
+     }
+     </div>
+   
+     <div className='text-center'>
+    { 
+      show &&  <button onClick={() => setShow(false)} className=" h-12 w-40 bg-orange-600  my-4 text-white rounded-md font-bold hover:bg-purple-700">
+      Get Started
+    </button>
+    }
+     </div>
         </div>
     );
 };

@@ -78,11 +78,11 @@ const Home = () => {
       <section className="banner-section   bg-slate-100 md:flex justify-between items-center">
         <div className="">
           <h1 className="text-3xl font-bold leading-tight">
-            One Step <br /> Closer To Your <br />{" "}
+            One Step <br /> Closer To Your <br /> 
             <span className="text-purple-500">Dream Job</span>
           </h1>
           <p className="mt-4 text-gray-600">
-            Explore thousands of job opportunities with all the <br />{" "}
+            Explore thousands of job opportunities with all the <br />
             information you need its future.Come find it. Mange all <br /> your
             application from start to finish.
           </p>

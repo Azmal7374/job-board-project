@@ -20,7 +20,7 @@ const Sidebar = () => {
            className="h-10 w-10 rounded-full"
            src="https://cdn-icons-png.flaticon.com/512/727/727399.png?w=740&t=st=1681989723~exp=1681990323~hmac=b9c1799b4afcf293ecd014e767c27bbd94e20c518553d4b5bc7cb24fa784ebe1"
          />
-        <Link to='/'> <p className='font-bold'>{user.displayName}</p></Link>
+        <Link to='/profile'> <p className='font-bold'>{user.displayName}</p></Link>
        </div>
      )}
     <div className="hover:bg-orange-500 p-2 rounded-md">
